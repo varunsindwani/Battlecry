@@ -1,6 +1,6 @@
 # Battlecry Starter
 
-![](https://ibb.co/LZ8qjK9)
+![](https://i.ibb.co/NyskDRW/showcase.png)
 
 ## Description
 
@@ -55,5 +55,5 @@ gatsby develop
 
 
 3. **Open the source code and start editing!**
+
 Your site is now running at http://localhost:8000!
-```
