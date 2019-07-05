@@ -1,6 +1,6 @@
 # Battlecry Starter
 
-!["Preview"]["https://ibb.co/LZ8qjK9"]
+![](https://ibb.co/LZ8qjK9)
 
 ## Description
 
@@ -46,13 +46,14 @@ gatsby-starter-default@0.1.0
 gatsby new my-webpage https://github.com/varunsindwani/Battlecry-Starter
 ```
 
-```sh
+
 2. **Start developing.**
+```sh
 cd my-webpage
 gatsby develop
 ```
 
-```sh
+
 3. **Open the source code and start editing!**
 Your site is now running at http://localhost:8000!
 ```
