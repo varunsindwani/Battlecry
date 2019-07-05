@@ -1,12 +1,12 @@
-#Battlecry Starter
+# Battlecry Starter
 
-![Preview][https://ibb.co/LZ8qjK9]
+!["Preview"]["https://ibb.co/LZ8qjK9"]
 
-##Description
+## Description
 
 A batteries included Gatsby starter.
 
-##Dependencies
+## Dependencies
 
 ```sh
 npm list --depth=0
@@ -39,7 +39,7 @@ gatsby-starter-default@0.1.0
 +-- tailwindcss@1.0.4
 ```
 
-##Get started
+## Get started
 
 1. **Create a Gatsby site.**
 ```sh
