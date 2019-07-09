@@ -1,9 +1,22 @@
 {
   "name": "battlecry-starter",
+  "author": "Varun Sindwani",
   "private": true,
   "description": "Batteries included starter",
   "version": "0.1.0",
-  "author": "Varun Sindwani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/varunsindwani/Battlecry-Starter/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/varunsindwani/Battlecry-Starter.git"
+  },
+  "keywords": [
+    "gatsby",
+    "jamstack",
+    "netlifycms"
+  ],
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.6",
     "gatsby": "^2.13.3",
@@ -32,9 +45,6 @@
     "prettier": "^1.18.2",
     "tailwindcss": "^1.0.4"
   },
-  "keywords": [
-    "gatsby"
-  ],
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
@@ -42,12 +52,5 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/varunsindwani/Battlecry-Starter"
-  },
-  "bugs": {
-    "url": "https://github.com/varunsindwani/Battlecry-Starter/issues"
   }
 }
