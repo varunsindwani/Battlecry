@@ -1,0 +1,27 @@
+# test values for netlify cms
+
+backend:
+  name: github
+  repo: varunsindwani/battlecry
+
+# publish_mode: editorial_workflow
+
+media_folder: static/assets
+public_folder: /assets 
+
+# media_library:
+#   name: uploadcare
+#   config:
+#     publicKey: demopublickey
+
+# site_url:
+# display_url:
+# logo_url:
+
+collections:
+  - name: title
+    label: title
+    folder: title
+    create: true
+    fields:
+      - { name: title, label: Title }
