@@ -13,9 +13,7 @@
     "url": "https://github.com/varunsindwani/Battlecry-Starter.git"
   },
   "keywords": [
-    "gatsby",
-    "jamstack",
-    "netlifycms"
+    "gatsby"
   ],
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.6",
@@ -31,7 +29,6 @@
     "gatsby-plugin-styled-components": "^3.1.0",
     "gatsby-source-filesystem": "^2.1.2",
     "gatsby-transformer-sharp": "^2.2.1",
-    "netlify-cms-app": "^2.9.6",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
