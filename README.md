@@ -16,7 +16,7 @@ A Gatsby starter built with tailwind and styled-components to help build website
 
 1. **Create a Gatsby site.**
 ```sh
-gatsby new my-webpage https://github.com/varunsindwani/Battlecry.git
+gatsby new my-webpage https://github.com/varunsindwani/battlecry.git
 ```
 
 
