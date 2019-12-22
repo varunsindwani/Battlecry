@@ -4,13 +4,12 @@
 
 ## Description
 
-A Gatsby starter built with tailwind and styled-components to help build websites quickly.
+A Gatsby starter built with tailwind to help build websites quickly.
 
 ## Built With
 
 * [Gatsby(React)](https://www.gatsbyjs.org/) - Frontend framework
 * [TailwindCSS](https://tailwindcss.com/) - Utility first CSS framework
-* [Styled Components](https://www.styled-components.com/) - CSS in JS
 
 ## Get started
 
