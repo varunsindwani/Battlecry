@@ -27,16 +27,6 @@ module.exports = {
         icon: `src/assets/icons/hammer.png`,
       }, 
     },
-    `gatsby-plugin-styled-components`,
-    { 
-      resolve: `gatsby-plugin-purgecss`,
-      options: {
-        printRejected: true,
-        develop: true,
-        tailwind: true,
-        purgeOnly : ['src/css/style.css'],
-      }
-    },
     `gatsby-plugin-postcss`,
     `gatsby-plugin-offline`,
   ],

@@ -6,39 +6,32 @@
   "version": "0.1.0",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/varunsindwani/Battlecry-Starter/issues"
+    "url": "https://github.com/varunsindwani/battlecry/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/varunsindwani/Battlecry-Starter.git"
+    "url": "https://github.com/varunsindwani/battlecry.git"
   },
   "keywords": [
     "gatsby"
   ],
   "dependencies": {
-    "gatsby": "^2.18.16",
-    "gatsby-image": "^2.2.4",
-    "gatsby-plugin-manifest": "^2.2.1",
-    "gatsby-plugin-netlify-cms": "^4.1.6",
-    "gatsby-plugin-offline": "^2.2.1",
-    "gatsby-plugin-postcss": "^2.1.0",
-    "gatsby-plugin-purgecss": "^4.0.0",
-    "gatsby-plugin-react-helmet": "^3.1.0",
-    "gatsby-plugin-sharp": "^2.2.2",
-    "gatsby-source-filesystem": "^2.1.2",
-    "gatsby-transformer-sharp": "^2.2.1",
+    "gatsby": "^2.18.12",
+    "gatsby-image": "^2.2.34",
+    "gatsby-plugin-manifest": "^2.2.31",
+    "gatsby-plugin-offline": "^3.0.27",
+    "gatsby-plugin-react-helmet": "^3.1.16",
+    "gatsby-plugin-sharp": "^2.3.5",
+    "gatsby-source-filesystem": "^2.1.40",
+    "gatsby-transformer-sharp": "^2.3.7",
     "prop-types": "^15.7.2",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-helmet": "^5.2.1"
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-helmet": "^5.2.1",
+    "gatsby-plugin-postcss": "^2.1.0",
+    "gatsby-plugin-purgecss": "^4.0.0"
   },
   "devDependencies": {
-    "eslint": "^5.16.0",
-    "eslint-config-airbnb": "^17.1.1",
-    "eslint-plugin-import": "^2.18.0",
-    "eslint-plugin-jsx-a11y": "^6.2.3",
-    "eslint-plugin-react": "^7.14.2",
-    "prettier": "^1.18.2",
     "tailwindcss": "^1.0.4"
   },
   "scripts": {
